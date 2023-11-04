@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>YungJun's Website</title>
+        <title>YungJun Website</title>
         <meta name="description" content="Yung Jun's Website created by Next JS" />
       </Head>
 
